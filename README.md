@@ -18,10 +18,11 @@ Finally, the Contact section provides my email address, GitHub profile and phone
 
 1.3. Visual Design
 
-The visual design is simple and professional. Its aim is to show my education, technical skills and projects clearly, without unnecessary elements.
-The website uses dark blue (#111827) as the main background and dark grey (#1F2937) for cards and sections. Blue (#2563EB) and light blue (#60A5FA) highlight important information. Almost white (#F9FAFB) is used for the main text, while grey (#9CA3AF) is used for secondary text.
-The typography uses Inter, with Arial as a backup font. Large headings organise the content, while smaller text is used for descriptions.
-The website has a single-page layout. It includes an introduction with text and an image, followed by sections for academic information, projects, technical skills, education and contact details. Cards help organise the information and keep the design clear.
+The visual design of my website is simple and professional. The main goal is to present my education, technical skills and programming projects in a clear and organised way. I have chosen a modern style related to the world of technology, without adding too many decorative elements.
+The website uses dark blue (#111827) as the main background colour. Dark grey (#1F2937) is used for cards and different sections to separate the information. Blue (#2563EB) and light blue (#60A5FA) are used to highlight important elements, such as headings and section numbers. Almost white (#F9FAFB) is used for the main text, while grey (#9CA3AF) is used for secondary information. These colours create a good contrast and make the content easier to read.
+The typography uses Inter, with Arial as a backup font. Large headings help users identify the different sections, while smaller text is used for descriptions and additional information.
+The layout is based on a single page that users can read from top to bottom. At the beginning, the introduction includes text and an image. After that, the academic summary presents some important information about my studies and skills. The projects section shows my programming projects and links to their repositories. The technical skills section groups my programming languages and other abilities. The education section presents my academic background, 
+and the contact section provides my contact information.
 
 1.4. Figma Project
 
